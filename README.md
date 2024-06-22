@@ -1,18 +1,18 @@
 <img src="./sanjhBanner.png" alt="SanjayBanner"/>
 <h1 align="center">Hi 👋, I'm Sanjay Rai</h1>
-<h3 align="center">keep learning something new...!!!</h3>
+<h3 align="center">Keep learning something new...!!!</h3>
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coder" align="right" width="400px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaraiy&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaraiy" /> </p>
 
-- 🌱 I’m currently learning **Express & DataBase**
+- 🌱 I’m currently learning **Devops Technologies**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Sanjhok](https://hashnode.com/@Sanjhok)
 
-- 💬 Ask me about **React and Tailwind CSS**
+- 💬 Ask me about **Frontend & Backend Technologies**
 
 - 📫 How to reach me **deeprai786756@gmail.com**
 
-- ⚡ Fun fact **"From Loops to Laughs: A Developer's Journey"**
+- ⚡ Fun fact **"Empowering developers to create, innovate, and inspire 🚀💡"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
