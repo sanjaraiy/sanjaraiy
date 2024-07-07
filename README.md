@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Frontend & Backend Technologies**
 
-- 📫 How to reach me **deeprai786756@gmail.com**
+- 📫 How to reach me **sanjayrai33724@gmail.com**
 
 - ⚡ Fun fact **"Empowering developers to create, innovate, and inspire 🚀💡"**
 
