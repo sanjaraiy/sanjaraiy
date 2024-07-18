@@ -1,4 +1,4 @@
-<img src="./sanjhBanner.png" alt="SanjayBanner"/>
+<img src="./banner.png" alt="SanjayBanner"/>
 <h1 align="center">Hi 👋, I'm Sanjay Rai</h1>
 <h3 align="center">Keep learning something new...!!!</h3>
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coder" align="right" width="400px"/>
